@@ -4,9 +4,9 @@
   "description": "How to deploy a NodeJS application in Docker Container",
   "main": "index.js",
   "scripts": {
-  "test": "mocha --recursive test",
-  "bump-version": "npm version patch"
-},
+    "test": "mocha --recursive test",
+    "bump-version": "npm version patch"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
